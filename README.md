@@ -25,7 +25,7 @@ I'm very proud of this given I was able to make this in a week. There's still pl
   <li>I'd like to add a click sound on enter/click on the send button.</li>
   <li>Perhaps include some functionality to recognize links, images (though I'd have to integrate this project with another storage database that can take images)</li>
   <li>include user authentication, that requires logging into the github account in order to use the app</li>
-  <li tie in user authentication with message deletion, so that only the user can delete their own messages.</li>
+  <li> tie in user authentication with message deletion, so that only the user can delete their own messages.</li>
 </ul>
 </div>
  
