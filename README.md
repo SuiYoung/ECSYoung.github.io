@@ -28,3 +28,10 @@ I'm very proud of this given I was able to make this in a week. There's still pl
   
   Thanks so much for stopping by!
   Please come back soon for project 6!
+  
+  <styles>
+  ul: {
+  width: 80%;
+  margin: 0 auto
+  }
+  </styles>
