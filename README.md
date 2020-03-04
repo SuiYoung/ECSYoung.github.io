@@ -19,19 +19,17 @@ Notes: This app was created in partnership with Naveen Malhotra in my cohort 25.
 5. <a href= "https://github.com/ECSYoung/suiYoungCohort25Chat" target= "_blank"> Project 5 Github Repo</a>  ||  <a href="https://ecsyoung.github.io/suiYoungCohort25Chat/" target= "_blank">Live</a><br>
 Notes: One of my long time dreams, or maybe fantasy, was to create an app that has the functionality of instagram, whatsapp, facebook, and twitter all in one. This project was the first attempt at making one of those parts. I was told that making a functional multi-user chat app would take too long, and that it had taken past students too much time. I accepted this at first, and in my search for different ways to authenticate single users, I found the github API which allowed me to do a soft call without authentication and use the username that came up along with their github avatar. I had thought at first that I may have bit off more than I could chew, and in finding this API, and seeing the way I could use this seamlessly in my project made the functionality 1000% faster, better, and smoother. I learned so much about this project, including the uses of components, state, props, and "this". I implemented async and await, along with my api call, and a ".then" to have the chat display scroll to bottom once the user's information was taken on prompt. This project was stress tested during my 90 second presentation, where I asked 30-40 people to log in at the same time, and I'm very pleased that the app held up in functionality!
 I'm very proud of this given I was able to make this in a week. There's still plenty to improve:
-<ul>
+<div>
+<ul>	
   <li>I'd like to make the chat display continuously scroll to the bottom when a new message comes up.</li>
   <li>I'd like to add a click sound on enter/click on the send button.</li>
   <li>Perhaps include some functionality to recognize links, images (though I'd have to integrate this project with another storage database that can take images)</li>
   <li>include user authentication, that requires logging into the github account in order to use the app</li>
   <li tie in user authentication with message deletion, so that only the user can delete their own messages.</li>
-  
+</ul>
+</div>
+ 
   Thanks so much for stopping by!
   Please come back soon for project 6!
   
-  <styles>
-  ul: {
-  width: 80%;
-  margin: 0 auto
-  }
-  </styles>
+
