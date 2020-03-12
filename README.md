@@ -28,8 +28,16 @@ I'm very proud of this given I was able to make this in a week. There's still pl
   <li> tie in user authentication with message deletion, so that only the user can delete their own messages.</li>
 </ul>
 </div>
+
+6. <a href= "https://github.com/ethicalMakeupC25/project6" target= "_blank"> Project 5 Github Repo</a>  ||  <a href="https://ethicalmakeupc25.github.io/project6/#/project6/" target= "_blank">Live</a><br>
+
+A react based application that uses google’s firebase realtime database, authentication and Makeup API’s data to provide a list of real vegan and cruelty free based cosmetic products available. With this, we were able to sort by brand, product, and do partial searches to find a list of products and filter by price, rating, and alphabetical order. Deployed with HashRouter to allow for server-side access on any website. A team work project shared between myself and 3 others to create a seamless experience.<br>
+We had a great deal of trouble with deployment, and learned that BrowserRouter works locally because it's a client side service, while HashRoute is server side service and allows the url pathing through react-router-dom to maintain it's browser data history and refresh appropriately without leading to a 404 error. With teamwork, and great trial and error challenges, we managed to figure this one one and deploy and submit the project on time.<br>
+Please feel free to take a look at your leisure and let me know what you think!<br><br>
  
   Thanks so much for stopping by!
-  Please come back soon for project 6!
+  Please come back soon for a link to my portfolio once completed!
+  
+  3/12/2020
   
 
